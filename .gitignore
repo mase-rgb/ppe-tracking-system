@@ -2,9 +2,21 @@
 # .gitignore — files that never get uploaded to GitHub
 # =============================================================
 
+# Config / secrets
 config.py
+.env
+
+# Excel data
 *.xlsx
 *.xls
+
+# SSL / database certs
+ca.pem
+
+# Python cache
 __pycache__/
-*.pyc
-.env
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
