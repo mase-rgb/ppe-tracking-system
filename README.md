@@ -1,5 +1,7 @@
 # 🦺 PPE Tracking System
 
+🌐 **Live Demo:** [PPE Monitoring Dashboard](https://ppe-tracking-system-4tmyappewvwmh4cpspe8amp.streamlit.app)
+
 A real-time Personal Protective Equipment (PPE) monitoring system built for workplace safety management. Tracks PPE issuance, condition, expiry, and status for all employees — with automated alerts, report generation, and a live web dashboard.
 
 ---
